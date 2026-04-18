@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "generated_ispitaniya",
+  "version": "1.0.0",
+  "name": "Автогенерируемые испытания",
+  "description": "Добавляет автогенерируемые испытания",
+  "authors": [
+    "EtoYaM"
+  ],
+  "contact": {
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ru.eto.ya.m.generated.ispitaniya.aoh2de.mod.Main"
+    ]
+  },
+  "mixins": [
+    "generated_ispitaniya.mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "aoh2:de": "2.*"
+  }
+}

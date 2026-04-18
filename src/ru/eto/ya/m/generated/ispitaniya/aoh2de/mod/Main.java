@@ -1,4 +1,9 @@
 package ru.eto.ya.m.generated.ispitaniya.aoh2de.mod;
 
-public class Main {
+import net.fabricmc.api.ModInitializer;
+
+public class Main implements ModInitializer {
+    @Override
+    public void onInitialize() {
+    }
 }
