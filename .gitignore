@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 game.jar
 Исходники
+SourceAPI_AOH2DE-g2.01_v1.1.0.jar
 
 ### Eclipse ###
 .apt_generated
