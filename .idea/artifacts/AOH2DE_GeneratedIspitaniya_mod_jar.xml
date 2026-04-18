@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AOH2DE_GeneratedIspitaniya_mod:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AOH2DE_GeneratedIspitaniya_mod_jar</output-path>
+    <root id="archive" name="AOH2DE_GeneratedIspitaniya_mod.jar">
+      <element id="module-output" name="AOH2DE_GeneratedIspitaniya_mod" />
+    </root>
+  </artifact>
+</component>
